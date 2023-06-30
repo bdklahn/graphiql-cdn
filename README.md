@@ -5,11 +5,11 @@ This is adapted from [here](https://github.com/graphql/graphiql/blob/main/exampl
 
 The example queries were found [here](https://gist.github.com/MichaelCurrin/6777b91e6374cdb5662b64b8249070ea).
 
-Just make a copy of index.html.example, edit to put in your Github token, and open in your web browser.
+Just make a copy of index_example.html, edit to put in your Github token, and open in your web browser.
 
 e.g.:
 ```bash
-cp index.html.example index.html
+cp index_example.html index.html
 # edit to add your token
 google-chrome index.html
 ```
