@@ -5,7 +5,7 @@ This is adapted from [here](https://github.com/graphql/graphiql/blob/main/exampl
 
 The example queries were found [here](https://gist.github.com/MichaelCurrin/6777b91e6374cdb5662b64b8249070ea).
 
-Just make a copy of index_example.html, edit to put in your Github token, and open in your web browser.
+Just make a copy of index_example.html, [edit](https://github.com/bdklahn/graphiql-cdn/blob/b4ba54d2eb83a324e529b13cb0e091fea8825586/index_example.html#L61) to put in your Github token, and open in your web browser.
 
 e.g.:
 ```bash
